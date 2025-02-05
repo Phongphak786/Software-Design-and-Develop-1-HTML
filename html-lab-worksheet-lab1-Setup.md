@@ -75,5 +75,15 @@
   
 ### บันทึกผลการทดลอง
 [บันทึกภาพหน้าจอของผลลัพธ์การทดลอง]
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ทดสอบ Phongphak</title>
+</head>
+<body>
+    <h1>สวัสดี Phongphak</h1>
+</body>
+</html>
+![html-lab-worksheet-lab1-Phongphak 145](https://github.com/user-attachments/assets/d0024405-8555-4f18-ad81-0e1031454a44)
 
 
