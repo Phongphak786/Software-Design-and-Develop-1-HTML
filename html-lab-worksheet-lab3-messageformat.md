@@ -32,8 +32,41 @@
 - รหัสเอกสาร HTML ที่เขียน:
 ```html
 [วางโค้ด HTML ที่นี่]
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>แนะนำตัวเอง</title>
+</head>
+<body>
+
+<h1>แนะนำตัวเอง</h1>
+
+<h2>ชื่อ-นามสกุล</h2>
+<p> <strong>พงศ์ภัค ขันใส</strong> 
+<hr>
+
+<h2>ประวัติการศึกษา</h2>
+<p>กำลังศึกษา <strong>สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง</strong> คณะครุศาสตร์ สาขาคอมพิวเตอร์</p>
+
+<hr>
+
+<h2>งานอดิเรก</h2>
+<p>งานอดิเรกของฉันคือการ <strong>เล่นบาส</strong> และ <em>ร้องเพลง</em> 
+
+
+<hr>
+
+<h2>เป้าหมายในอนาคต</h2>
+<p> พัฒนาทักษะด้านเทคโนโลยี
+
+</body>
+</html>
+
 ```
 - ภาพผลลัพธ์:
 [วางภาพ screenshot ที่นี่]
+![Screenshot 2025-02-05 234143](https://github.com/user-attachments/assets/c07ffd71-fb46-4ff3-a0c7-238d3b9ccfda)
 
 
