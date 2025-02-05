@@ -68,8 +68,59 @@
 
 [วางโค้ด HTML ที่นี่]
 ```html
+[<table border="4">
+    <h1>routine</h1>
+    <thead>
+        <tr>
+            <th>เวลาตื่น</th>
+            <th>เวลาเรียน</th>
+            <th>กินข้าว</th>
+            <th>เวลาเรียน</th>
+            <th>กลับบ้าน</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>05.00-08.00</td>
+            <td>09:00</td>
+            <td>12:30</td>
+            <td>14.00</td>
+            <td>18.30</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>Net work</td>
+            <td>lunch</td>
+            <td>digital</td>
+            <td>backhome</td>
+        </tr>
+    </tbody>
+</table>
+<h1>ต้อบตามสั่ง</h1>
+<ul>
+    <li>กระเพราหมูสับไข่ดาว 50 baht</li>
+    <li>กระเพราหมูกรอบไข่ดาว 75 baht</li>
+    <li>กระเพราปลาหมึกไข่ดาว 80 baht</li>
+    <li>กระเพราเครื่องในไก่ไข่ดาว 300 baht</li>
+</ul>
+
+<ol>
+    <li>กระเพราหมูสับไข่ดาว 50 baht</li>
+    <li>กระเพราหมูกรอบไข่ดาว 75 baht</li>
+    <li>กระเพราปลาหมึกไข่ดาว 80 baht</li>
+    <li>กระเพราเครื่องในไก่ไข่ดาว 300 baht</li>
+</ol>
+
+<dl>
+    <dt>ไกด์</dt>
+    <dd>สั่งกระเพราหมูกรอบไข่ดาว</dd>
+    <dt>ปลื้ม
+    </dt>
+    <dd>สั่งกระเพราหมูสับไข่ดาว</dd>
+</dl>]
 
 ```
 - ภาพผลลัพธ์:
 [วางภาพ screenshot ที่นี่]
+![Screenshot 2025-02-06 000016](https://github.com/user-attachments/assets/4f9695ef-7840-49a7-8f7d-e5ca20d6190e)
 
